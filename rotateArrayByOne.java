@@ -1,4 +1,5 @@
-class Solution {
+class Solution
+{
     public static void rotateArrayByOne(int[] nums) {
         int n = nums.length;
         int temp = nums[0];
@@ -16,3 +17,4 @@ class Solution {
         }
         
     }
+}
